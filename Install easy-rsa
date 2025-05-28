@@ -1,0 +1,3 @@
+sudo apt install easy-rsa -y
+make-cadir ~/openvpn-ca
+cd ~/openvpn-ca

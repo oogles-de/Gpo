@@ -1,0 +1,2 @@
+source vars ./clean-all
+./build-ca
